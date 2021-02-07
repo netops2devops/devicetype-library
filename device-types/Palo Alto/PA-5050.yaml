@@ -61,13 +61,13 @@ interfaces:
   type: 1000base-x-sfp
 - name: ethernet1/20
   type: 1000base-x-sfp
-- name: ethernet1/1
+- name: ethernet1/21
   type: 10gbase-x-sfpp
-- name: ethernet1/2
+- name: ethernet1/22
   type: 10gbase-x-sfpp
-- name: ethernet1/3
+- name: ethernet1/23
   type: 10gbase-x-sfpp
-- name: ethernet1/4
+- name: ethernet1/24
   type: 10gbase-x-sfpp
 - name: loopback
   type: virtual
